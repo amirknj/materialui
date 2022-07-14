@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.349cef58.css","mappings":"AAAA,MAEI,wBAA0B,CAD1B,kBAEJ,CAEA,MACI,wBACJ","sources":["components/Sidebar.css"],"sourcesContent":[".icon{\n    padding-right: 25px;\n    font-size: 35px !important;\n}\n\n.text{\n    font-size: 50px !important;\n}"],"names":[],"sourceRoot":""}
